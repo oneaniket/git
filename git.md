@@ -22,3 +22,7 @@
 > * git add "filename"
 > * git commit -m "meaningful msg"
 
+### 05. Check changes in the file
+> * git diff    # git diff will show the changes between staging area and working area. 
+> * git diff --staged # To view the changes from staging area
+
