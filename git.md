@@ -8,5 +8,17 @@
 > * git config --global user.name "aniket pawar"
 > * git config --global user.email "oneaniket@gmail.com"
 
-### To view all the configs
+### 02. To view all the configs
 > * git config --list
+
+### 03. Create first repository
+> * Create a empty folder/directory in you machine 
+> * cd  "new folder/directory"
+> * git init # initialize git in this directory. Check the content of this directory now. Make sure you can view hidden files
+
+### 04. Commiting changes to local repository
+> * Add a file in your local repo
+> * git status
+> * git add "filename"
+> * git commit -m "meaningful msg"
+
