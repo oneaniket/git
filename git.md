@@ -11,7 +11,7 @@
 ### 02. To view all the configs
 > * git config --list
 
-### 03. Create first repository
+### 03. Create first local repository
 > * Create a empty folder/directory in you machine 
 > * cd  "new folder/directory"
 > * git init # initialize git in this directory. Check the content of this directory now. Make sure you can view hidden files
@@ -25,4 +25,7 @@
 ### 05. Check changes in the file
 > * git diff    # git diff will show the changes between staging area and working area. 
 > * git diff --staged # To view the changes from staging area
+
+### 06. Adding a remote repository
+> * 
 
