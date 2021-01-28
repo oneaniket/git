@@ -1,5 +1,6 @@
 # Git
 
+## Git initial setup
 ### 00. Using inbuilt Git help
 > * git help
 > * git help [command]
@@ -27,5 +28,13 @@
 > * git diff --staged # To view the changes from staging area
 
 ### 06. Adding a remote repository
-> * 
+> * Create a empty folder/directory in you machine 
+> * cd  "new folder/directory"
+> * git init
+> * git remote add origin "repo https link"
 
+## Git branch
+### 01. Creating a new branch
+> * git branch "branch_name"
+> * git checkout "branch_name" change to "branch_name" from master/main branch
+> * git checkout -b "branch_name"   # create and change to "branch_name"
