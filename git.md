@@ -49,3 +49,14 @@
 ### 03. Revert commit 
 > * git reset HEAD "filename" # Revert from staging area to working area
 > * git reset HEAD~ "filename" # Revert from last commit
+
+## Git Stash
+> * git stash
+> * git stash list  # View all stashed changes
+> * git stash apply # This will move the changes from stash to working directory so that you can commit
+> * git stash drop  # Remove stashed changes. Need to do this even after 
+
+## Git tagging
+> * git tag "tag_name"
+> * git tag --list
+> * git tag --delete "tag_name"
