@@ -1,5 +1,7 @@
 # Git
 
+## Download Git on your local machine based on your OS. Follow steps from official documentation https://git-scm.com/downloads
+
 ## Git initial setup
 ### 00. Using inbuilt Git help
 > * git help
