@@ -26,7 +26,7 @@
 > * git commit -m "meaningful msg"
 
 ### 05. Check changes in the file
-> * git diff    # git diff will show the changes between staging area and working area. 
+> * git diff    # git diff will show the changes between last commit and current working area
 > * git diff --staged # To view the changes from staging area
 
 ### 06. Adding a remote repository
@@ -38,7 +38,7 @@
 ## Git branch
 ### 01. Creating a new branch
 > * git branch "branch_name"
-> * git checkout "branch_name" change to "branch_name" from master/main branch
+> * git checkout "branch_name" #change to "branch_name" from master/main branch
 > * git checkout -b "branch_name"   # create and change to "branch_name"
 
 ### 02. Merging of branch
