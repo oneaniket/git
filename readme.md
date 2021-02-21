@@ -40,6 +40,8 @@
 > * git branch "branch_name"
 > * git checkout "branch_name" #change to "branch_name" from master/main branch
 > * git checkout -b "branch_name"   # create and change to "branch_name"
+> * git branch -d "branch_name" # delete the branch
+> * git branch -m "old_branch_name" "new_branch_name" # Rename the branch
 
 ### 02. Merging of branch
 > * switch to you master branch and run below two commands
